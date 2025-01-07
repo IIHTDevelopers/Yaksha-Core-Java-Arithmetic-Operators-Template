@@ -1,7 +1,0 @@
-Task:
-Create a Java program that demonstrates the use of arithmetic operators: +, -, *, /, and %. You will use two variables of different types (int and double), perform basic arithmetic operations on them, and print the results.
-
-Implementation Instructions:
-Declare two variables: One int variable and one double variable.
-Perform arithmetic operations on these variables using the arithmetic operators.
-Print the results of each operation.
